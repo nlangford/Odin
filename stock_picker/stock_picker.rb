@@ -1,6 +1,4 @@
 def checker(prices)
-  high = 0
-  low = 0
   buy = 0
   sell = 0
   profit = 0
